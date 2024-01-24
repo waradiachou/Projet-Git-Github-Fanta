@@ -1,2 +1,5 @@
 Bonjour le monde!
 Je suis Fanta DIAWARA, developpeuse Full Stack debutante.
+
+j'ai suivi une formation en Genie Logiciel a IPD(Thomas Sankara)
+Je suis passionnee a faire du developpement.
